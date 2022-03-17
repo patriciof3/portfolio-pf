@@ -1,0 +1,23 @@
+.section-container{
+    margin: 1rem;
+
+}
+
+#name{
+    font-size: var(--fs-name);
+}
+
+#home-par{
+    margin-top: 1rem;
+    width: ;
+
+}
+
+button{
+    border-radius: 12px;
+    padding: 0.3rem;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 0.8rem;
+    margin-left: 10%;
+}
