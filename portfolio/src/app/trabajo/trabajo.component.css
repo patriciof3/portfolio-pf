@@ -1,0 +1,28 @@
+.content_section {
+    margin-top: 4rem;
+}
+
+.exp_title{
+    font-size:var(--fs-stitle);
+    margin-top: 2rem;
+    margin-left: 2rem;
+    display: inline-block;
+}
+
+.section_title{
+    font-weight: bold;
+}
+
+.exp_esp{
+    margin-left: 3rem;
+    margin-right: 2rem;
+}
+
+.exp_date{
+    display: inline-block;
+}
+
+.space{
+    clear: both;
+    display: inline-block;
+}

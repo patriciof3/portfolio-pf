@@ -16,3 +16,7 @@ body {
     --fs-par:1rem;
     --fs-name:3.5rem;
 }
+
+.section_title {
+    font-size: var(--fs-title);
+}
