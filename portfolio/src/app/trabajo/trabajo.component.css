@@ -6,7 +6,7 @@
     font-size:var(--fs-stitle);
     margin-top: 2rem;
     margin-left: 2rem;
-    display: inline-block;
+    display: inline;
 }
 
 .section_title{
@@ -16,13 +16,13 @@
 .exp_esp{
     margin-left: 3rem;
     margin-right: 2rem;
+    margin-top: 2rem;
 }
 
 .exp_date{
-    display: inline-block;
+    float: right;
 }
 
-.space{
-    clear: both;
-    display: inline-block;
+button {
+    margin: 2px;
 }
